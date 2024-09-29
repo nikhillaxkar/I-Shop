@@ -1,0 +1,1 @@
+{"scripts":{"test":"echo \"Error: no test specified\" && exit 1","start":"concurrently \"cd backend && nodemon index\" \"cd frontend1 && npm start\""},"dependencies":{"concurrently":"^8.2.2"}}
